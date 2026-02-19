@@ -27,7 +27,7 @@ Este repositório contém a solução para o desafio técnico de extração e vi
 
 - `coleta_dados.py`: Script principal de extração.
 - `cotacoes_moedas.csv`: Arquivo de dados gerado pelo script.
-- `Dashboard_Moedas_BB.pbix`: Arquivo do Power BI com os relatórios.
+- `DesafioBB.pbix`: Arquivo do Power BI com os relatórios.
 - `README.md`: Documentação do projeto.
 
 ## 🔧 Como Executar
